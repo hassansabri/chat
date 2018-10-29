@@ -1,0 +1,82 @@
+/* EOT file for IE */
+@font-face {
+    font-family: DubaiBold;
+    src: url("../fonts/webfonts/DubaiW23-Bold.eot") 
+}
+@font-face {
+    font-family: DubaiMedium;
+    src: url("../fonts/webfonts/DubaiW23-Medium.eot") 
+}
+@font-face {
+    font-family: DubaiLight;
+    src: url("../fonts/webfonts/DubaiW23-Light.eot") 
+}
+@font-face {
+    font-family: DubaiRegular;
+    src: url("../fonts/webfonts/DubaiW23-Regular.eot") 
+}
+
+/* TTF file for CSS3 browsers */
+
+@font-face {
+    font-family: DubaiBold;
+    src: url("../fonts/webfonts/DubaiW23-Bold.ttf") 
+}
+@font-face {
+    font-family: DubaiMedium;
+    src: url("../fonts/webfonts/DubaiW23-Medium.ttf") 
+}
+@font-face {
+    font-family: DubaiLight;
+    src: url("../fonts/webfonts/DubaiW23-Light.ttf") 
+}
+@font-face {
+    font-family: DubaiRegular;
+    src: url("../fonts/webfonts/DubaiW23-Regular.ttf")
+}
+/* EOT  Modern Browsers  */
+@font-face {
+    font-family: DubaiBold;
+    src: url("../fonts/webfonts/DubaiW23-Bold.woff") 
+}
+@font-face {
+    font-family: DubaiMedium;
+    src: url("../fonts/webfonts/DubaiW23-Medium.woff") 
+}
+@font-face {
+    font-family: DubaiLight;
+    src: url("../fonts/webfonts/DubaiW23-Light.woff") 
+}
+@font-face {
+    font-family: DubaiRegular;
+    src: url("../fonts/webfonts/DubaiW23-Regular.woff") 
+}
+/* EOT  Modern Browsers  */
+@font-face {
+    font-family: DubaiBold;
+    src: url("../fonts/webfonts/DubaiW23-Bold.woff2") 
+}
+@font-face {
+    font-family: DubaiMedium;
+    src: url("../fonts/webfonts/DubaiW23-Medium.woff2") 
+}
+@font-face {
+    font-family: DubaiLight;
+    src: url("../fonts/webfonts/DubaiW23-Light.woff2") 
+}
+@font-face {
+    font-family: DubaiRegular;
+    src: url("../fonts/webfonts/DubaiW23-Regular.woff2") 
+}
+body{
+    font-family: DubaiRegular !important;
+}
+thead th{
+    font-family: DubaiBold;
+}
+.dubaibold{
+    font-family: DubaiBold;
+}
+#logo{
+    width:100%;
+}
